@@ -1,3 +1,5 @@
 hr {
-    size="15"
+    border: none;
+    color: #2552;
+    height: 5px;
 }
