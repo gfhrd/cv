@@ -1,5 +1,16 @@
 hr {
-    border: none;
-    color: #2552;
-    height: 5px;
+    border: 0px solid #1bec4b;
+    height: 10px;
+    background-color: rgb(59, 55, 55);
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    }
+
+h1 {
+    color: black;
+    font-family: cursive;
+}
+
+body {
+    background-color: #c2f2cd;
 }
